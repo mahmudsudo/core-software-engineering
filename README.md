@@ -14,3 +14,11 @@ Learn software engineering from an open-source, academic standpoint using Java
 Microservices have seen a wide adoption in the software engineering field. Learn about 
 complex distributed systems from the awesome repo (https://github.com/theanalyst/awesome-distributed-systems).
 
+## Organization of the Repository
+The repo has five subdirectories, each treating different concepts that are applicable to
+software engineering:
+1. Software-Engineering
+2. Distributed-Systems
+3. Database-Engineering
+4. Infrastructural-Engineering
+5. DataStructures-n-Algorithms
